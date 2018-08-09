@@ -1,5 +1,5 @@
-# 3d_primitives
-Seven 3D primitve shapes for educational use. Created in [OpenSCAD](http://openscad.org) in maybe 10 minutes. Equations for the [equilateral prism](https://rechneronline.de/pi/equilateral-triangle.php) here. :-) 
+# geometeric_primitives
+Seven 3D geometric primitve shapes for educational use. Created in [OpenSCAD](http://openscad.org) in maybe 10 minutes. Equations for the [equilateral prism](https://rechneronline.de/pi/equilateral-triangle.php) here. :-) 
 
 * sphere
 * cone
