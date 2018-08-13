@@ -1,13 +1,13 @@
 # geometeric_primitives
-Seven 3D geometric primitve shapes for educational use. Created in [OpenSCAD](http://openscad.org) in maybe 10 minutes. Equations for the [equilateral prism](https://rechneronline.de/pi/equilateral-triangle.php) here. :-) 
+Seven 3D geometric primitive shapes for educational use. Created in [OpenSCAD](http://openscad.org) in maybe 10 minutes. Equations for the [equilateral prism](https://rechneronline.de/pi/equilateral-triangle.php) here. :-) 
 
 * sphere
 * cone
 * cube
-* rectanble (2x cube)
+* rectangle (2x cube)
 * cylinder
 * pyramid
-* equilaterial prism
+* equilateral prism
 
 Update: Added 2 part sphere (sphere2p) with pin (spherepin) to align them.
 
