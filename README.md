@@ -13,7 +13,9 @@ Update: Added 2 part sphere (sphere2p) with pin (spherepin) to align them.
 
 Instructions:
 
-Adjust the 'size' (in mm) and run `./generate_stl.sh`. Or just use the included STL files, which have 50mm sides. I printed everything with 20% infill except spherepin, which had none. 
+The included STL files have 50mm sides. I printed everything with 20% infill except spherepin, which had none.
+
+To make changes, you'll need to open `primitives.scad` file with OpenScad. Adjust the 'size' (in mm), which shape you want, then export as STL. If you've got the command line setup, you can run `./generate_stl.sh` to create them all automatically.
 
 2" blocks would be 50.8mm. 
 
