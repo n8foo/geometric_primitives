@@ -9,7 +9,7 @@ Seven 3D geometric primitive shapes for educational use. Created in [OpenSCAD](h
 * pyramid
 * equilateral prism
 
-Update: Added 2 part sphere (sphere2p) with pin (spherepin) to align them.
+Update: Added 2 part sphere (sphere2p) with pin (spherepin) to align them. Needs no external supports to print but requires gluing the halves together. 
 
 Instructions:
 
