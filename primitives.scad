@@ -56,7 +56,7 @@ if (output == "cube") {
 } else if (output == "cone") {
   cylinder(h=1,d1=size-1,d2=size,$fn=100);
   translate([0,0,1])
-    cylinder(h=size-1,d1=size,d2=2,$fn=100);
+    cylinder(h=(size*1.5)-1,d1=size,d2=2,$fn=100);
 } else if (output == "sphere") {
   sphere(d=size,$fn=100);
 } else if (output == "sphere2p") {
@@ -72,7 +72,7 @@ if (output == "cube") {
 } else if (output == "prism") {
   fillet(r=1) cylinder(r=size*ETCR,h=size*2,$fn=3);
 } else if (output == "pyramid") {
-  fillet(r=1) cylinder(h=size,d1=size*SQR2,d2=2,$fn=4);
+  fillet(r=1) cylinder(h=size*1.5,d1=size*SQR2,d2=2,$fn=4);
 } else if (output == "cylinder") {
   cylinder(h=1,d1=size-2,d2=size,$fn=100);
   translate([0,0,1]) cylinder(h=size-2,d=size,$fn=100);
