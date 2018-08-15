@@ -70,7 +70,7 @@ if (output == "cube") {
 } else if (output == "rectangle3") {
   fillet(r=1) cube([size/2,size,size*1.5]);
 } else if (output == "prism") {
-  fillet(r=1) cylinder(r=size*ETCR,h=size*2,$fn=3);
+  fillet(r=1) cylinder(r=size*ETCR,h=size*1.5,$fn=3);
 } else if (output == "pyramid") {
   fillet(r=1) cylinder(h=size*1.5,d1=size*SQR2,d2=2,$fn=4);
 } else if (output == "cylinder") {
