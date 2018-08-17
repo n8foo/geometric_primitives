@@ -1,5 +1,5 @@
 # geometric_primitives
-A collection of geometric primitive shapes for educational use. Created in [OpenSCAD](http://openscad.org) in maybe 10 minutes. Equations for the [equilateral prism](https://rechneronline.de/pi/equilateral-triangle.php) here. :-)
+A collection of geometric primitive shapes for educational use. Created in [OpenSCAD](http://openscad.org). Equations for the [equilateral prism](https://rechneronline.de/pi/equilateral-triangle.php) here. :-)
 
 * sphere
 * cone
